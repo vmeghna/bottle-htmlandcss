@@ -98,7 +98,6 @@ small {
   justify-content: center;
   text-align: center;
   margin: 5px;
-  transition: 0.3s ease;
   color: var(--clr-bright-blue);
   margin-top: 10px;
   border: 5px solid #144fc6;
